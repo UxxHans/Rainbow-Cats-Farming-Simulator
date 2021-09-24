@@ -1,4 +1,4 @@
-# Farming-Simulator
+# Rainbow-Cats-Farming-Simulator
 A cute farming simulator that can plant crops and construct buildings using Google Cardboard VR
 
 Hi there!
