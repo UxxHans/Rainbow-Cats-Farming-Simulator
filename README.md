@@ -14,3 +14,5 @@ Have fun!
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Farming-Simulator/blob/main/Pictures/6.webp)
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Farming-Simulator/blob/main/Pictures/7.webp)
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Farming-Simulator/blob/main/Pictures/8.webp)
+![alt text](https://github.com/UxxHans/Rainbow-Cats-Farming-Simulator/blob/main/Pictures/9.webp)
+
